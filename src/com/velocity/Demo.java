@@ -7,6 +7,7 @@ public class Demo {
 	int a[]=new int [5] ;
 	a[0]=10;
 	a[1]=50;
+	a[2]=20;
 	System.out.println(a[0]);
 
 }
